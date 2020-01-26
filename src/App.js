@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-import {Writer} from "./Writer";
+import {Writer} from "./Writer/Writer";
 
 function App() {
     return (
